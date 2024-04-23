@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(37, 212, 212);
+    /* change background and text color */
+    color:black;
+    font-family: 'Courier New', Courier, monospace
+        /*change font*/
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    /*change only style for h1 */
+    text-align: center;
+    /*change text alignment*/
+    font-style: italic;
+    background-color:azure;
+
+ 
+}
+
+
+/*change text style*/
+
+img {
+    border: 2px solid fuchsia;
+    /*add border to all images */
+    padding: 3px;
+    /*adds padding between image and border */
+    margin: 3px;
+    /*adds margin between elements */
+    display: block;
+    margin: auto;
+    /* automatically centers images by equalizing horizontal margins */
+
+
+}
+
+.imgcenter {
+    display: block;
+    margin: auto
+}
+
+/*create class to apply to images to center only one */
+
+.rizz {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:crimson;
+    background-color: lime;
+    border: dashed orange 5px;
+    font-size: 36pt;
+    font-style: italic;
+    /*creates class to apply to only certain elements of text */
+}
+
+/* .rizz:hover {
+    /*changes this class to only apply when hovered over */
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size: 10pt;
+    border: none;
+    background-color: blue; */
+}
+
+li{
+text-decoration: ;
+}
+
+
+
+a {
+    color: coral;
+}
+
+/* change color of anchor objects text*/
+a:visited {
+    color:crimson; /*changes color of visited link text */
+}
+
+
+
+
